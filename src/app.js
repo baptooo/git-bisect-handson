@@ -19,7 +19,7 @@ function some(a, b) {
  * Say hello
  */
 function sayHello() {
-  return 'Hello !';
+  return '**** you I won\'t do what you tell me !';
 }
 
 /**
