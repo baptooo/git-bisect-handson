@@ -1,0 +1,19 @@
+{
+  "name": "git-bisect-handson",
+  "version": "0.0.1",
+  "description": "Git bisect handson",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "baptooo",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
