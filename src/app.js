@@ -8,6 +8,10 @@ function some(a, b) {
     throw new Error('Arguments must be numbers');
   }
 
+  if (a === 5) {
+    throw new Error('Anarchy !');
+  }
+
   return a + b;
 }
 
