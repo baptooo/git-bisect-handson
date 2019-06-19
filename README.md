@@ -1,9 +1,9 @@
 # Git bisect hands on
 
-- [Requirements]
-- [Install]
-- [Run]
-- [Tests]
+- [Requirements](#requirements)
+- [Install](#install)
+- [Run](#run)
+- [Tests](#tests)
 
 ## Requirements
 
